@@ -1,0 +1,29 @@
+.search-button{
+	color: white;
+}
+
+.logo{
+	width: 50%;
+}
+
+.post{
+	width: 85%;
+	height: 200px;
+}
+
+.page{
+	background-color: rgb(230, 230, 230);
+}
+
+.block-1, .block-3{
+	background-color: white;
+}
+
+.block-2{
+	background-color:rgb(64, 64, 64) ;
+}
+
+.paper{
+	width: 70%;
+	height: 300px;
+}
